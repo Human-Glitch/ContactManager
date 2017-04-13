@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Kody\Desktop\Android Studio Projects\ContactManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Kody\Desktop\Android Studio Projects\ContactManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_c14aa908460c0986cd26593f30cecd55e07e4adb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kody\Desktop\Android Studio Projects\ContactManager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Kody\Desktop\Android Studio Projects\ContactManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_0e185248cd7926da694ae3f46cbee54c80427e7d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kody\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Kody\Desktop\Android Studio Projects\ContactManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_09797ff51eacea66e9132e15b4b2cf0f7bc2b26a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kody\Desktop\Android Studio Projects\ContactManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Kody\Desktop\Android Studio Projects\ContactManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_e0c3bf8f1352c9709126937b605bd049a0fb0d16\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kody\Desktop\Android Studio Projects\ContactManager\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3f41ed48cff14f0821229d4f11655b5b7211c6d7">
+        <dex dex="C:\Users\Kody\Desktop\Android Studio Projects\ContactManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3331e9239ed28fa3b5f32cdf4202704e23d77ee4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kody\Desktop\Android Studio Projects\ContactManager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9d914d45ab645e741dcc8c04ee0dd081b2849e25">
+        <dex dex="C:\Users\Kody\Desktop\Android Studio Projects\ContactManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_32850282cf951905c2c8d1efad5eb28d63abf349\classes.dex" />
+    </item>
+
+</items>
